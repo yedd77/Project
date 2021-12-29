@@ -28,3 +28,35 @@
 		font-weight: 700;
 		font-style: italic;
 		font-size: 20px;}
+
+        ul{list-style-type: disc;}
+          
+    #box1{
+       width: auto;
+       background-color: #fffdeb;
+      border:peachpuff double 10px;
+      padding: 50px;
+      margin: 50px;
+      border-radius: 50px;
+    }
+
+
+    #box2{
+        width: auto;
+        background-color:#9cc3cd;
+       border:peachpuff double 10px;
+       padding: 50px;
+       margin: 50px;
+       border-radius: 50px;
+     }
+      
+     
+
+     #box3{
+        width: auto;
+        background-color: #d5f5c6;
+       border:peachpuff double 10px;
+       padding: 50px;
+       margin: 50px;
+       border-radius: 50px;
+     }
