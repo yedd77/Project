@@ -88,14 +88,21 @@ html .ui-bar-a .ui-btn{
 
 .container-4 h1{
   font: normal bold 14px/normal 'Poppins', sans-serif;
+  letter-spacing: 1px;
 }
 
 .container-4 p {
   font: normal normal 12px/normal 'Poppins', sans-serif;
 }
 
+.container-5{
+  text-align: center;
+}
+
 hr{
   margin: 20px 0 20px 0;
+  height: 1px;
+  border: 0.5px solid #9c7ee2;
 }
 
 .ui-input-text input, .ui-input-search input{

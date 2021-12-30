@@ -459,10 +459,13 @@ html .ui-bar-b .ui-btn:visited,
 html .ui-body-b .ui-btn:visited,
 html body .ui-group-theme-b .ui-btn:visited,
 html head + body .ui-btn.ui-btn-b:visited {
-	background-color: #c7b7ef /*{b-bup-background-color}*/;
-	border-color: #6d6483 /*{b-bup-border}*/;
-	color: #000000 /*{b-bup-color}*/;
-	text-shadow: 0 /*{b-bup-shadow-x}*/ 1px /*{b-bup-shadow-y}*/ 0 /*{b-bup-shadow-radius}*/ #eeeeee /*{b-bup-shadow-color}*/;
+	background-color: #664ca6;
+    border-color: #6d6483 /*{b-bup-border}*/;
+    color: #fff;
+    text-shadow: 0 /*{b-bup-shadow-x}*/ 1px /*{b-bup-shadow-y}*/ 0 /*{b-bup-shadow-radius}*/ #eeeeee /*{b-bup-shadow-color}*/;
+    letter-spacing: 1.3px;
+	font-family: 'Poppins', sans-serif;
+	font-weight: 100;
 }
 /* Button hover */
 .ui-page-theme-b .ui-btn:hover,
