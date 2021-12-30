@@ -7,10 +7,21 @@
 }
 
 .logo{
-  width: 100%;
+  width: 70%;
   height: auto;
+  margin: 10px 0 0 10px;
+}
+.ui-header .ui-btn{
+  top:10px;
 }
 
+.ui-navbar li .ui-btn{
+  font: normal normal 12px/normal 'Poppins', sans-serif;
+  letter-spacing: 1px;
+  color: #fff;
+}
+
+}
 .container-1 h1{
   text-align: left;
   font: normal bold 32px/normal 'Poppins', sans-serif;
