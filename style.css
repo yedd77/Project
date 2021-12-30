@@ -1,3 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins');
+
+*{
+  box-sizing: border-box;
+  padding: 0%;
+  margin: 0%;
+}
+
+.logo{
+  width: 100%;
+  height: auto;
+}
+
+.container-1 h1{
+  text-align: left;
+  font: normal bold 32px/normal 'Poppins', sans-serif;
+}
+
+.container-1 p {
+  text-align: left;
+  font: normal normal 18px/normal 'Poppins', sans-serif;
+}
+
+.btn-1{
+  border-radius: 20px;
+}
+
+.btn-1 a{
+  text-decoration: none;
+}
+
+.outside{
+  display: block;
+  width: 100%;
+}
+
+.imgbanner{
+  width: 100%;
+  height: auto;
+}
+
+.container-2 h1{
+  padding: 40px 40px 40px 16px;
+  font: normal 800 32px/130% 'Poppins', sans-serif;
+}
+
+.container-3 p {
+  font: normal normal 18px/normal 'Poppins', sans-serif;
+  padding: 0 0 10px 0;
+}
+
+.content-info p{
+  font: normal normal 16px/normal 'Poppins', sans-serif;
+
+}
+
+.content-btn{
+  left: 60%;
+  margin: 20px 0 10px 0;
+}
+
+.container-4{
+  padding: 20px 40px 20px 40px;
+}
+
+.container-4 h1{
+  font: normal bold 14px/normal 'Poppins', sans-serif;
+}
+
+.container-4 p {
+  font: normal normal 12px/normal 'Poppins', sans-serif;
+}
+
+hr{
+  margin: 20px 0 20px 0;
+}
+
+.ui-input-text input, .ui-input-search input{
+  font: normal normal 14px/normal 'Poppins', sans-serif;
+}
+
+/*end of redesign*/
 .headerimg {display: block;
     margin-left: auto;
     margin-right: auto;
@@ -94,8 +176,4 @@
         font-size: 24px;
         color: #222;
         line-height: 24px;
-      }
-
-      .body{
-       background-color: tomato;
       }
