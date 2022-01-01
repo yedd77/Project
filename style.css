@@ -19,8 +19,7 @@
     top: 10px;
 }
 
-.nav1 .ui-page-theme-a .ui-btn,
-html .ui-bar-a .ui-btn {
+.nav1 .ui-grid-a .ui-block-b .ui-navbar .ui-grid-a .ui-block-b a {
     background-color: #fff/*{a-bup-background-color}*/
     ;
     border-color: #42326a/*{a-bup-border}*/
@@ -32,7 +31,7 @@ html .ui-bar-a .ui-btn {
     0/*{a-bup-shadow-radius}*/
     #444444/*{a-bup-shadow-color}*/
     ;
-    font: normal normal 12.5px/normal 'Poppins', sans-serif;
+    font: normal normal 12.5px/normal 'Poppins';
 }
 
 .container-1 h1 {
@@ -91,7 +90,7 @@ html .ui-bar-a .ui-btn {
 }
 
 .content-btn {
-    left: 60%;
+    left: 65%;
     margin: 20px 0 10px 0;
 }
 
